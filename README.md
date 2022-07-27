@@ -1,2 +1,2 @@
-# book-finder
-book finding service using google books api
+# Book-Finder
+book search app implementing google book api and viewer
